@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid black; */
+}
+#div1{
+    width: 40%; 
+    height:90vh;
+}
+#div2{
+    width: 50%;
+     height:90vh;
+}

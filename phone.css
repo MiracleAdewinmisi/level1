@@ -1,0 +1,97 @@
+@media only screen and (max-width:600px){
+    .carousel-inner{
+        border-radius: 0px 0px 20% 20%;
+        width: 100%;
+        
+    }
+    .num{
+        padding-left: 300px;
+        margin-top: -50px;
+    }
+
+    #sort{
+        width: 80% !important;
+        display: flex !important;
+        margin-left: 60px;
+        margin-top: 10px;
+    }
+    
+}
+@media only screen and (max-width:800px) {
+    .carousel-inner{
+        border-radius: 0px 0px 20% 20%;
+        width: 100%;
+    }
+    .carousel-item {
+        min-height: 50vh;}
+    #shop{
+        margin-left: 4vw;
+    }
+    #nav{
+        margin-left: 3vw;
+    }
+    #num{
+        margin-left: 40vw;
+        margin-top: -350px;
+    }
+    #sort{
+        width: 50% !important;
+        display: flex !important;
+        margin-left: 40vw;
+        margin-top: 10px;
+    }
+    #side{
+        margin-left: 10vw;
+        margin-top: -50px;
+        width: 50px;
+        
+    }
+    #image{
+        margin-top: 150px;
+        width: 300px;
+        height: 400px;
+        
+    }
+    #image2{
+        width: 300px;
+        height: 400px;
+    }
+    
+    
+    #pix{
+        margin-left: -250px;
+        width: 300px;
+        height: 400px;
+    }
+    
+    .txt{
+        /* margin-top: 1500px; */
+    
+    }
+}
+#footer{
+    margin-top: 200px;
+}
+#tags{
+    position: absolute;
+    /* top: 260vh; */
+    color: black; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+  };
+/* @media screen and (max-width:400px) { */
+    /* #num{
+        margin-left: -150px !important;
+        position: relative;
+        right: 200px;
+    } */
+
+    /* #sort{
+        width: 50% !important;
+        display: flex !important;
+        margin-left: 40vw;
+        margin-top: 10px;
+    } */
+}
+  
